@@ -6,7 +6,7 @@ Uses Epubpress service to generate epub files.
 
 ## Demo
 
-![npm start](https://raw.githubusercontent.com/sortegam/indiehackers2epub/master/demo/demo.gif)
+![npm start](https://raw.githubusercontent.com/sortegam/indiehackers2epub/master/docs/demo.gif)
 
 ## How to run
 
