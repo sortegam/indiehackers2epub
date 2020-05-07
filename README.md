@@ -1,8 +1,7 @@
 # indiehackers2epub
 
-Convert automatically each IndieHackers.com interviews to Epub for offline reading
-
-Uses Epubpress service to generate epub files.
+One summer I was on holidays with my family and I found Indiehackers.com website having a bunch of great enterpreneur stories.
+I wanted to read all of them using my Kindle, so I wrote this tiny script to download and convert automatically each IndieHackers.com interviews to Epub for offline reading using EpubPress service library.
 
 ## Demo
 
@@ -16,13 +15,12 @@ Open your terminal and run
   - `npm start`
 
 
-Automagically will scrape IndieHackers interviews and download them in epub format to the ebooks folder.
+It will download IndieHackers interviews in epub format to the local ebooks folder.
 
 Enjoy.
 
 ## Disclaimer
 
 All the contents of the epubs generated are property of IndieHackers.com
-
 
 @sortegam
