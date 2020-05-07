@@ -14,7 +14,6 @@ const init = async () => {
     // @ts-ignore
     const interviewUrl = `${config.baseIhInterviewUrl}${slugify(interview.title)}-${interview.objectID.split('-')[0].toString()}`;
     await ebookDownloader(`${interview.title} - $${interview.productRevenue}`, interviewUrl);
-    break;
   }
   log('indiehackers2pub finished!');
 }
