@@ -21,7 +21,7 @@
   "homepage": "https://github.com/sortegam/indiehackers2epub#readme",
   "dependencies": {
     "apify": "^0.20.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chalk": "^4.0.0",
     "epub-press-js": "^0.5.3",
     "mv": "^2.1.1",
